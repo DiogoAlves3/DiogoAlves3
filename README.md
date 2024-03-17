@@ -31,6 +31,8 @@ Caso Queira Entrar Em Contato Comigo Abaixo Esta Meu E-mail.
 - <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> 
 <p>diogoalvesdev@gmail.com</p>
 
+<a href="diogoalvesdev@gmail.com" <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+
 
 
 
