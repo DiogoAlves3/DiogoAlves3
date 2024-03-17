@@ -17,15 +17,12 @@ Me Chamo Diogo Alves. Tenho 14 Anos e Sou Programador Front-end. tenho Expêrien
 
 Tenho Algumas redes Socias. Caso Tenha Interesse:
 
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> <a href="https://www.facebook.com/profile.php?id=100031280310090">Clique Aqui Para Ver Meu facebook</a>
-
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> <a href="https://www.instagram.com/diogoalveessz/?next=%2F">Clique Aqui Para Ver Meu Instagram</a>
+<a href="https://www.facebook.com/profile.php?id=100031280310090"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+ <a href="https://www.instagram.com/diogoalveessz/?next=%2F"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
 
 Sou Aluno De Uma Formação Full-Stack. Totalmente Online Caso Tenha Interesse:
 
-<img src="https://media.licdn.com/dms/image/D4D0BAQGs0Jd8tULJZw/company-logo_200_200/0/1659810942474/dev_club_devs_logo?e=2147483647&v=beta&t=XCpZ9XZyOCsTxcUrqMIHKXHsTOL1_14IgXm43w6OJ3Y" height="50px">
-
-<a href="https://rodolfomori.com.br/devclub-n1/">Clique Aqui</a>
+<a href="https://rodolfomori.com.br/devclub-n1/"><img src="https://media.licdn.com/dms/image/D4D0BAQGs0Jd8tULJZw/company-logo_200_200/0/1659810942474/dev_club_devs_logo?e=2147483647&v=beta&t=XCpZ9XZyOCsTxcUrqMIHKXHsTOL1_14IgXm43w6OJ3Y" height="50px"></a>
 
 
 
