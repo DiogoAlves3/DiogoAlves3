@@ -12,6 +12,7 @@ Me Chamo Diogo Alves. Tenho 14 Anos e Sou Programador Front-end. tenho Expêrien
  
  - <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
  - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ - <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 
  Atualmente Meu Sistema Operacional è o:
 
